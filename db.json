@@ -1,0 +1,25 @@
+{
+  "notices": [
+    {
+      "id": "1",
+      "title": "Mid Examination Schedule",
+      "category": "Exams",
+      "date": "2026-10-27",
+      "description": "Mid examinations will begin next week. Students should check the timetable."
+    },
+    {
+      "id": "2",
+      "title": "University Holiday",
+      "category": "Holiday",
+      "date": "2026-10-28",
+      "description": "The university will remain closed on the announced holiday."
+    },
+    {
+      "id": "3",
+      "title": "Technical Fest Registration",
+      "category": "Events",
+      "date": "2026-10-29",
+      "description": "Students can register for the upcoming technical fest."
+    }
+  ]
+}
